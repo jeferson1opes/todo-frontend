@@ -1,0 +1,36 @@
+.row-cad {
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.add-task {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  margin-bottom: 30px;
+}
+.card-body-custom{
+  padding: 10px;
+}
+
+.title-done{
+  margin-top: 10px;
+}
+.card-header-custom {
+  display: flex;
+  justify-content: space-between;
+  background-color: "#e4e4e4";
+}
+.project-card-title-buttons {
+  background-color: #e4e4e4;
+}
+.input-custom {
+  border: none;
+  flex: 1;
+  background-color: #e4e4e4;
+}
+.container {
+  display: inline-flex;
+}

@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+}
+.container-items{
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.project-items {
+  width: 400px;
+  margin-right: 0.4rem;
+}
+.create-project {
+  width: 400px
+}
